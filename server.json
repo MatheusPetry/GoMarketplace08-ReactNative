@@ -1,28 +1,34 @@
 {
   "products": [
     {
-      "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "id": "1",
+      "title": "Óculos de Sol RAYBAN - Verde",
+      "image_url": "https://static.netshoes.com.br/produtos/oculos-de-sol-rayban-octagon-rb1972/60/N97-3426-060/N97-3426-060_zoom1.jpg?ts=1589284126&",
+      "price": 650
     },
     {
-      "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "id": "2",
+      "title": "Óculos Oakley Latch",
+      "image_url": "https://static.netshoes.com.br/produtos/oculos-oakley-latch-masculino/88/D63-3938-188/D63-3938-188_zoom1.jpg?",
+      "price": 649
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "id": "3",
+      "title": "Óculos de Sol Oakley Holbrook",
+      "image_url": "https://static.netshoes.com.br/produtos/oculos-de-sol-oakley-oo9417-holbrook-xl-masculino/06/PFN-0376-006/PFN-0376-006_zoom1.jpg?ts=1589284089&",
+      "price": 710
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "id": "4",
+      "title": "Óculos de Sol Ventura Redondo",
+      "image_url": "https://static.netshoes.com.br/produtos/oculos-de-sol-ventura-redondo/06/IZH-0014-006/IZH-0014-006_zoom1.jpg?ts=1589374983&",
+      "price": 690
+    },
+    {
+      "id": "5",
+      "title": "Armação Mormaii Atlântico",
+      "image_url": "https://static.netshoes.com.br/produtos/armacao-mormaii-atlantico/10/D31-7979-010/D31-7979-010_zoom1.jpg?",
+      "price": 299
     }
   ]
 }
